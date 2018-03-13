@@ -32,3 +32,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Unity Assets
+/Assets/PostProcessing/*
+/Assets/Standard Assets/*
+
+# Plugins
+/Assets/External/*
