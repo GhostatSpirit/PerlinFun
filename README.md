@@ -8,6 +8,7 @@ Using Perlin Noise to procedurally generate terrains in Unity. Used Fast Poisson
 Inspired by:
 - Procedural-Landmass-Generation https://github.com/SebLague/-Procedural-Landmass-Generation 
 - The Power of Procedural Meshes https://www.youtube.com/watch?v=8LTDFwWMlqQ
+- Poisson-Disc Sampling - Jason Davies https://www.jasondavies.com/poisson-disc/
 
 Plugins used:
 - Post Processing Stack
