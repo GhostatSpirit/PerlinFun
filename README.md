@@ -2,6 +2,8 @@
 Using Perlin Noise to procedurally generate terrains in Unity. Used Fast Poisson Disk Sampling to generate trees, buildings and other structures.
 
 ![Perlin Fun screenshot](https://github.com/GhostatSpirit/PerlinFun/raw/master/Docs/screenshot_01.png)
+![Inspector screenshot](https://github.com/GhostatSpirit/PerlinFun/raw/master/Docs/Inspector_00.PNG)
+
 
 Inspired by:
 - Procedural-Landmass-Generation https://github.com/SebLague/-Procedural-Landmass-Generation 
